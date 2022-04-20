@@ -1,0 +1,26 @@
+h1{
+    font-weight: bold;
+    text-align: left;
+    padding-left: 5%;
+    margin-top: 18%;
+}
+
+h5, p{
+    margin-top: 7%;
+    padding-left: 45%;
+}
+
+p{
+    font-size: small;
+}
+
+.margin{
+    margin-left: auto;
+    font-weight:bold;
+    font-size:90%;
+}
+
+a:hover{
+    border-bottom: 1px solid;
+    border-bottom-color: rgba(255,160,0,255);
+}
