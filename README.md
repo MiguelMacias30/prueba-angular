@@ -1,7 +1,7 @@
 # PruebaAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
-This project was generates with [Node] version 14.15.0
+This project was generated with [Node] version 14.15.0
 
 ## Development server
 
