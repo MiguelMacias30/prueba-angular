@@ -48,9 +48,9 @@ font-size: small;
 }
 
 .grupo-input i{
-    position: absolute;
-    top: 35px;
-    left: 250px;
+    position: relative;
+    top: -30px;
+    left: 238px;
 }
 
 .btn-warning{
@@ -82,7 +82,10 @@ font-size: small;
     color: rgba(255,160,0,255);
     content: '\f00c';
     font-family: FontAwesome;
+    font-size: small;
 }
+
+
 
 .page{
     margin-left: 45px;
